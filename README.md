@@ -12,7 +12,7 @@ Python Missingno Library is used to impute and visualize missing values.
 
 ## Description
 ### Commercial District Analysis
-* Data Load and Missing Value
+* Data Load and Missing Value (Part 1)
 * Missing Value Visualization by 'missingno' Library
 * Data Preprocessing: Raw Korean Data to Useable DataFrame
 * Descriptive Statistics: 'Univariate' and 'Bivariate' Analysis
