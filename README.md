@@ -11,7 +11,10 @@ Python Missingno Library is used to impute and visualize missing values.
 
 
 ## Description
-### 
+### Commercial District Analysis
+### Baskin-Robbins and Dunkin'
+### Starbucks and Ediya Coffee
+### Paris Baguett and Tous Les Jours
 
 ## Important Notes
 
