@@ -18,7 +18,7 @@ Python Missingno Library is used to impute and visualize missing values.
 * Descriptive Statistics: 'Univariate' and 'Bivariate' Analysis
 * Subset Analysis - Food Business Analysis: Boolean Indexing
 * Subset Analysis - Education Business
-* Multi-index Reformation
+* Multi-index Reformation (Part 2)
 * Visualization by 'Latitude' and 'Longitude'
 
 
