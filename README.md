@@ -12,9 +12,16 @@ Python Missingno Library is used to impute and visualize missing values.
 
 ## Description
 ### Commercial District Analysis
-* Readme
-** Readme
-* 
+* Data Load and Missing Value
+* Missing Value Visualization by 'missingno' Library
+* Data Preprocessing: Raw Korean Data to Useable DataFrame
+* Descriptive Statistics: 'Univariate' and 'Bivariate' Analysis
+* Subset Analysis - Food Business Analysis: Boolean Indexing
+* Subset Analysis - Education Business
+* Multi-index Reformation
+* Visualization by 'Latitude' and 'Longitude'
+
+
 ### Baskin-Robbins and Dunkin'
 ### Starbucks and Ediya Coffee
 ### Paris Baguett and Tous Les Jours
