@@ -35,6 +35,8 @@ Python Missingno Library is used to impute and visualize missing values.
 * CircleMarker based on Number of Stores
 
 ### Paris Baguett and Tous Les Jours
+* Data Visualization
+* Map Visualization
 
 ## Important Notes
 
