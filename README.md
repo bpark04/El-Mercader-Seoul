@@ -21,8 +21,12 @@ Python Missingno Library is used to impute and visualize missing values.
 * Multi-index Reformation (Part 2)
 * Visualization by 'Latitude' and 'Longitude'
 
-
 ### Baskin-Robbins and Dunkin'
+* Missing Data Handling and Data Preprocessing
+* Text Data Analysis
+* Data Visualization
+* Map Visualization
+
 ### Starbucks and Ediya Coffee
 ### Paris Baguett and Tous Les Jours
 
