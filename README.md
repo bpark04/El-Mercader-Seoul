@@ -28,6 +28,12 @@ Python Missingno Library is used to impute and visualize missing values.
 * Map Visualization
 
 ### Starbucks and Ediya Coffee
+* Visualization by Pandas functions and Seaborn
+* 'groupby' vs 'pivot_table'
+* Folium with SimpleMarker
+* GeoJSON and Choropleth
+* CircleMarker based on Number of Stores
+
 ### Paris Baguett and Tous Les Jours
 
 ## Important Notes
