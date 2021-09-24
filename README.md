@@ -51,8 +51,9 @@ Unfortunately, if you open jupyter notebook files on github, you will find out t
 
 ### Note 3
 The public dataset used in this project is too big to be uploaded in github repository. 
+Please go to the following link and download **'seoul_store_info'**
 
-https://drive.google.com/drive/folders/1_GTU8YnA85HdIaygMf0xUQO3H611Agz6?usp=sharing
+Where to find data: https://drive.google.com/drive/folders/1_GTU8YnA85HdIaygMf0xUQO3H611Agz6?usp=sharing
 
 
 ## How to Download and Install
