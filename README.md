@@ -41,16 +41,27 @@ Python Missingno Library is used to impute and visualize missing values.
 ## Important Notes
 ### Note 1
 When you try to open **'Commercial District Analysis 2.ipynb'** to view, you might see `Sorry, something went wrong. Reload?` message.
-This is because .ipynb file is too big to open in github. Please click 'Reload' several times more until you see the contents.
+This is because .ipynb file is too big to open in hhub. Please click 'Reload' several times more until you see the contents.
 If you cannot see the contents after clicking 'Reload' more than 5 times, you can download and open the file on your machine.
 I highly recommend using **Anaconda** to open the file. Please refer to **How to Download and Install** section for the detailed instruction.
 
 ### Note 2
-Unfortunately, if you open jupyter notebook files on github, you will find out that results of some Python functions using Folium library are not visuable because this library uses actual map to plot the data on it based on the longitude and latitude and github does not support this functionality. Please refer to **How to Download and Install** section to see how to run jupyter notebook files on your machine.
-
+Unfortunately, if you open jupyter notebook files on Github, you will find out that results of some Python functions using Folium library are not visible because this library uses an actual map to plot the data on it based on the longitude and latitude and Github does not support this functionality. Please refer to **How to Download and Install** section to see how to run jupyter notebook files on your machine.
 
 ### Note 3
-The public data file used in this project is too big to be uploaded in github repository. 
+When you download .ipynb files from Github, you will see that they will be download as `.txt` file. You have to re-convert `.txt` file to `.ipynb` by deleting the extension.
+
+* First click on Raw
+* Then, press ctrl+s to save it as .ipynb (Note that you’ll have to manually type ‘.ipynb’ after the file name to make this work, as files from GitHub are saved as text files as default.)
+
+For Mac OS,
+* click on Raw
+* Press command+s to save
+* Right click the saved file -> Click Get Info -> Delet .txt from 'Name & Extension' -> Unselect 'Hide Extension'
+
+
+### Note 4
+The public data file used in this project is too big to be uploaded to Github repository. 
 Please go to the following link and download **'seoul_store_info.csv'** file
 
 Google Drive: https://drive.google.com/drive/folders/1_GTU8YnA85HdIaygMf0xUQO3H611Agz6?usp=sharing
