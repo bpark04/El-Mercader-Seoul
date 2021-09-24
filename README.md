@@ -66,7 +66,7 @@ After downloading Anaconda, you have to install the following libraries:
 * Once you open the terminal through Anaconda Navigator, please install the following commands:
 * **Folium**: `conda install -c conda-forge folium`
 * Using `pip list` command on the terminal, double-check whether the following libraries are successfully installed: `pandas`, `numpy`, and `matplotlib`
-* If any of the three libraries are missing, please install by commanding `pip install [library name]`
+* If any of the three libraries are missing, please install it by commanding `pip install [library name]`
 
 
 ## Data Resource
