@@ -64,7 +64,7 @@ Google Drive: https://drive.google.com/drive/folders/1_GTU8YnA85HdIaygMf0xUQO3H6
 After downloading Anaconda, you have to install the following libraries:
 * If you are using Mac OS, plsease navigate to 'Environemnt' -> 'base (root)' -> 'Open Terminal' 
 * Once you open the terminal through Anaconda Navigator, please install the following commands:
-* * **Folium**: `conda install -c conda-forge folium`
+* **Folium**: `conda install -c conda-forge folium`
 * Using `pip list` command on the terminal, double-check whether the following libraries are successfully installed: `pandas`, `numpy`, and `matplotlib`
 * If any of the three libraries are missing, please install by commanding `pip install [library name]`
 
