@@ -50,13 +50,24 @@ Unfortunately, if you open jupyter notebook files on github, you will find out t
 
 
 ### Note 3
-The public dataset used in this project is too big to be uploaded in github repository. 
-Please go to the following link and download **'seoul_store_info.csv'**
+The public data file used in this project is too big to be uploaded in github repository. 
+Please go to the following link and download **'seoul_store_info.csv'** file
 
 Google Drive: https://drive.google.com/drive/folders/1_GTU8YnA85HdIaygMf0xUQO3H611Agz6?usp=sharing
 
 
 ## How to Download and Install
+**Anaconda** is a Python distribution that makes it easy to install Python plus a number of its most often used 3rd party libraries in a flexible way. You can open **Jupyter Notebook** through Anaconda and upload the file after downloading from this repository to open.
+
+**Download link**: https://www.anaconda.com/products/individual
+
+After downloading Anaconda, you have to install the following libraries:
+* If you are using Mac OS, plsease navigate to 'Environemnt' -> 'base (root)' -> 'Open Terminal' 
+* Once you open the terminal through Anaconda Navigator, please install the following commands:
+* * **Folium**: `conda install -c conda-forge folium`
+* Using `pip list` command on the terminal, double-check whether the following libraries are successfully installed: `pandas`, `numpy`, and `matplotlib`
+* If any of the three libraries are missing, please install by commanding `pip install [library name]`
+
 
 ## Data Resource
 * https://www.data.go.kr/en/index.do
