@@ -57,7 +57,7 @@ When you download .ipynb files from Github, you will see that they will be downl
 For Mac OS users:
 * click on Raw
 * Press command+s to save
-* Right click the saved file -> Click Get Info -> Delet .txt from 'Name & Extension' -> Unselect 'Hide Extension'
+* Right click the saved file -> Click Get Info -> Delete .txt from 'Name & Extension' -> Unselect 'Hide Extension'
 
 
 ### Note 4
