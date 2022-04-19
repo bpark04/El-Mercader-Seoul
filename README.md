@@ -1,7 +1,7 @@
-# La_Mercante_Seoul
+# El_Mercader_Seoul
 
 ## About
-'La Mercante Seoul' is a Python and Pandas project that processes South Korean public data to analyze market-entry strategies of franchise brands in Seoul.
+'El Mercader Seoul' is a Python and Pandas project that processes South Korean public data to analyze market-entry strategies of franchise brands in Seoul.
 
 This project applies descriptive statistics for Exploratory Data Analysis(EDA) technique in Python including correlation analysis, Dist plot, Joint plot, and KDE plot.
 
